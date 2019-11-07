@@ -1,0 +1,11 @@
+.menu{
+  display: flex;
+  align-items: center;
+  margin: 0 1rem 0 auto;
+  .button {
+    background-color: blue;
+    color: #fff;
+    padding: 0.5rem;
+    margin-left: 1rem;
+  }
+}
